@@ -9,4 +9,4 @@ Different types of basic exercises in Python:
 
   -Exercises with loops
   
-  - Method: append, startwith, split, regular expression
+  -Method: append, startwith, split, regular expression
